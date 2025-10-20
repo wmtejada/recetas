@@ -11,6 +11,6 @@ Sistema Python para calcular listas de compras basado en recetas.
 ## 📦 Instalación
 ```bash
 # Solo necesitas Python 3.6+
-git clone https://github.com/wmtejada/Recetario1.py
+git clone https://github.com/wmtejada/Recetario1.git
 cd sistema-recetas
 python sistema_recetas.py
